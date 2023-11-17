@@ -107,6 +107,16 @@ blockquote{
     padding: 10px;
 }
 
+q{
+    padding: 40px 20px;
+    margin: 2;
+}
+
+figcaption{
+    padding-left: 40px;
+    padding-top: 10px;
+}
+
 .flexContain{
     display: flex;
     padding: 20px;
